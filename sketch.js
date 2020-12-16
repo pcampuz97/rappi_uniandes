@@ -32,7 +32,7 @@ function draw() {
 
 
 
- noStroke();
+
   ambientLight(100);
   directionalLight(255, 255, 255, 0, 0, 1);
   rotateX(angle);
